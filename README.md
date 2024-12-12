@@ -51,5 +51,5 @@ I'm a recent **MSc graduate in Big Data Science** from Queen Mary University of 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sparsh)
+- [LinkedIn](https://www.linkedin.com/in/sparsh009/)
 - [Email](mailto:sparsh.edu9@gmail.com)
